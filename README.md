@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gianni</h1>
-<h3>
-Code Cowboy and System Matador</h3>
+<h2>Hi 👋, I'm Gianni</h1>
+<h3>Code Cowboy and System Matador</h3>
 
 <p align="left">
   <a href="https://twitter.com/shoksuno" target="blank"><img src="https://img.shields.io/twitter/follow/shoksuno?logo=twitter&style=for-the-badge" alt="shoksuno" /></a> 
