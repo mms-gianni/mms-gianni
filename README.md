@@ -1,6 +1,6 @@
 ### Hi I'm Gianni
 
-[![mms-gianni GitHub stats](https://github-readme-stats.vercel.app/api?username=mms-gianni)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mms-gianni)](https://github.com/anuraghazra/github-readme-stats)
+[![mms-gianni GitHub stats](https://github-readme-stats.vercel.app/api?username=mms-gianni)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mms-gianni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
