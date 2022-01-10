@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://twitter.com/shoksuno" target="blank"><img src="https://img.shields.io/twitter/follow/shoksuno?logo=twitter&style=for-the-badge" alt="shoksuno" /></a> 
-  <a href="https://stackoverflow.com/users/2458448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2458448" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/2458448" target="blank"><img src="https://img.shields.io/badge/stackoverflow-Gianni.C-informational?style=for-the-badge&logo=stackoverflow" alt="2458448" /></a>
 </p>
 
 
