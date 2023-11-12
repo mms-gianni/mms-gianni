@@ -1,7 +1,7 @@
-<p align="left">
+<!--<p align="left">
   <a href="https://twitter.com/shoksuno" target="blank"><img src="https://img.shields.io/twitter/follow/shoksuno?logo=twitter&style=for-the-badge" alt="shoksuno" /></a> 
   <a href="https://stackoverflow.com/users/2458448" target="blank"><img src="https://img.shields.io/badge/stackoverflow-Gianni.C-informational?style=for-the-badge&logo=stackoverflow" alt="2458448" /></a>
-</p>
+</p>-->
 
 
 [![mms-gianni GitHub stats](https://github-readme-stats.vercel.app/api?username=mms-gianni)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mms-gianni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
